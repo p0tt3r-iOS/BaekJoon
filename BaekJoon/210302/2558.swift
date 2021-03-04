@@ -8,8 +8,8 @@
 import Foundation
 
 func solution2558() {
-    let num1 = Int(readLine()!)!
-    let num2 = Int(readLine()!)!
+    let num1: Int = Int(readLine()!)!
+    let num2: Int = Int(readLine()!)!
     
     print(num1 * (num2 % 10))
     print(num1 * ((num2 % 100 - num2 % 10) / 10))
