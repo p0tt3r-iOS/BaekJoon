@@ -35,5 +35,11 @@ import Foundation
 //solution11021()
 //solution11022()
 //solution2438()
-solution2439()
+//solution2439()
+
+// 210306
+//solution10871()
+//solution10952()
+//solution10951()
+//solution1110()
 
