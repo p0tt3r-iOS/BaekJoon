@@ -11,7 +11,9 @@ func solution2577() {
     let a = Int(readLine()!)!
     let b = Int(readLine()!)!
     let c = Int(readLine()!)!
+    
     let result = String(a * b * c)
+    
     let digits = result.compactMap { $0.wholeNumberValue }
     var countArray: [Int] = Array(repeating: 0, count: 10)
     for i in digits {
