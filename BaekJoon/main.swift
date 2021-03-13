@@ -7,24 +7,24 @@
 
 import Foundation
 
-// 210302
-//solution2557()
-//solution10171()
-//solution10172()
-//solution1000()
-//solution1001()
-//solutino10998()
-//solution1008()
-//solution10869()
-//solution10430()
-//solution2558()
+// 210313
+//solution1546()
+solution8958()
 
-// 210304
-//solution1330()
-//solution9498()
-//solution2753()
-//solution14681()
-//solution2884()
+
+// 210310
+//solution3052()
+
+// 210309
+//solution10818()
+//solution2562()
+//solution2577()
+
+// 210306
+//solution10871()
+//solution10952()
+//solution10951()
+//solution1110()
 
 // 210305
 //solution2739()
@@ -37,16 +37,33 @@ import Foundation
 //solution2438()
 //solution2439()
 
-// 210306
-//solution10871()
-//solution10952()
-//solution10951()
-//solution1110()
+// 210304
+//solution1330()
+//solution9498()
+//solution2753()
+//solution14681()
+//solution2884()
 
-// 210309
-//solution10818()
-//solution2562()
-//solution2577()
+// 210302
+//solution2557()
+//solution10171()
+//solution10172()
+//solution1000()
+//solution1001()
+//solutino10998()
+//solution1008()
+//solution10869()
+//solution10430()
+//solution2558()
 
-// 210310
-solution3052()
+
+
+
+
+
+
+
+
+
+
+
