@@ -6,8 +6,14 @@
 //
 
 import Foundation
+// 210420
+solution2609()
+//solution2309()
+//solution10870()
+
+
 // 210419
-solution2460()
+//solution2460()
 //solution3460()
 //solution2501()
 
