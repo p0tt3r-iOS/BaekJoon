@@ -6,8 +6,19 @@
 //
 
 import Foundation
+// 210427
+//print(solutionP42583(100, 100, [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]))
+//print(solutionP42583(2, 10, [7, 4, 5, 6]))
+//print(solutionP42583(100, 100, [10]))
+//print(solutionP42587([2, 1, 3, 2], 2))
+//print(solutionP42587([1, 1, 9, 1, 1, 1], 0))
+//solution1966()
+print(solutionP42584([1, 2, 3, 2, 3]))
+
+
+
 // 210426
-solution9012()
+//solution9012()
 //solution9093()
 //solution1158()
 
