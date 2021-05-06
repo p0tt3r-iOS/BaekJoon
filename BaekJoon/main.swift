@@ -7,7 +7,17 @@
 
 import Foundation
 // 210506
-print(solutionPscQ2(-4, 2))
+print(solutionP43165([1, 1, 1, 1, 1], 3))
+
+// Level 2
+//let test = "{{2},{2,1},{2,1,3},{2,1,3,4}}"
+//print(solutionPscQ4(test))
+
+//let record = ["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]
+//print(solutionPscQ3(record))
+
+// Level 1
+//print(solutionPscQ2(-4, 2))
 //print(solutionP278560(123))
 
 // 410429
