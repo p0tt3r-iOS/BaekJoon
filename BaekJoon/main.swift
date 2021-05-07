@@ -6,8 +6,11 @@
 //
 
 import Foundation
+// 210507
+print(solutionP42586([93, 30, 55], [1, 30, 5]))
+
 // 210506
-print(solutionP43165([1, 1, 1, 1, 1], 3))
+//print(solutionP43165([1, 1, 1, 1, 1], 3))
 
 // Level 2
 //let test = "{{2},{2,1},{2,1,3},{2,1,3,4}}"
