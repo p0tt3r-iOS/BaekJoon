@@ -6,11 +6,27 @@
 //
 
 import Foundation
-// 210508
-print(solutionP42839("17"))
-print(solutionP42839("011"))
-print(solutionP42839("123"))
+// 210509
+let arr = ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
+print(solutionP12981(3, arr))
+let arr2 = ["hello", "observe", "effect", "take", "either", "recognize", "encourage", "ensure", "establish", "hang", "gather", "refer", "reference", "estimate", "executive"]
+print(solutionP12981(5, arr2))
 
+
+//print(solutionP12982([1, 3, 2, 5, 4], 9))
+
+//print(solutionP43162(3, [[1, 1, 0], [1, 1, 0], [0, 0, 1]]))
+
+// 210508
+//print(solutionP42862(5, [2, 4], [1, 3, 5]))
+//print(solutionP42862(5, [2, 4], [3]))
+
+//let clothes = [["yellowhat", "headgear"], ["bluesunglasses", "eyewear"], ["green_turban", "headgear"]]
+//print(solutionP42576(clothes))
+
+//print(solutionP42839("17"))
+//print(solutionP42839("011"))
+//print(solutionP42839("123"))
 
 //print(solutionP42840([1,3,2,4,2]))
 //print(solutionP42840([1,2,3,4,5]))
