@@ -6,8 +6,31 @@
 //
 
 import Foundation
+// 210508
+print(solutionP42839("17"))
+print(solutionP42839("011"))
+print(solutionP42839("123"))
+
+
+//print(solutionP42840([1,3,2,4,2]))
+//print(solutionP42840([1,2,3,4,5]))
+//print(solutionP42840([2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3]))
+
+//print(solutionP42747([3, 0, 6, 1, 5]))
+//print(solutionP42747([0, 1, 1, 7, 4, 3]))
+//print(solutionP42747([2, 2, 4, 4, 4, 5, 7, 9]))
+//print(solutionP42747([10, 100]))
+//print(solutionP42747([6, 6, 6, 6, 6, 6]))
+//print(solutionP42747([2, 2, 2]))
+
+
+
+
 // 210507
-print(solutionP42586([93, 30, 55], [1, 30, 5]))
+//print(solutionP42746([3, 30, 34, 5, 9]))
+//print(solutionP42746([6, 10, 2]))
+//print(solutionP42748([1, 5, 2, 6, 3, 7, 4], [[2, 5, 3], [4, 4, 1], [1, 7, 3]]))
+//print(solutionP42586([93, 30, 55], [1, 30, 5]))
 
 // 210506
 //print(solutionP43165([1, 1, 1, 1, 1], 3))
