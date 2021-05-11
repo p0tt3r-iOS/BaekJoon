@@ -6,11 +6,32 @@
 //
 
 import Foundation
+print(solutionQ2([0, 1, 3, 0], [0, 1, 2, 3]))
+
+//let data = ["price=80 code=987654 time=2019062113","price=90 code=012345 time=2019062014","price=120 code=987654 time=2019062010","price=110 code=012345 time=2019062009","price=95 code=012345 time=2019062111"]
+//print(solutionQ1("012345", "20190620", data))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // 210509
-let arr = ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
-print(solutionP12981(3, arr))
-let arr2 = ["hello", "observe", "effect", "take", "either", "recognize", "encourage", "ensure", "establish", "hang", "gather", "refer", "reference", "estimate", "executive"]
-print(solutionP12981(5, arr2))
+//let arr = ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
+//print(solutionP12981(3, arr))
+//let arr2 = ["hello", "observe", "effect", "take", "either", "recognize", "encourage", "ensure", "establish", "hang", "gather", "refer", "reference", "estimate", "executive"]
+//print(solutionP12981(5, arr2))
 
 
 //print(solutionP12982([1, 3, 2, 5, 4], 9))
