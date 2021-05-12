@@ -6,7 +6,14 @@
 //
 
 import Foundation
-print(solutionQ2([0, 1, 3, 0], [0, 1, 2, 3]))
+
+// 210512
+print(solutionP68935(45))
+
+// 210509
+//solutionP67256([7, 0, 8, 2, 8, 3, 1, 5, 7, 6, 2], "left")
+
+//print(solutionQ2([0, 1, 3, 0], [0, 1, 2, 3]))
 
 //let data = ["price=80 code=987654 time=2019062113","price=90 code=012345 time=2019062014","price=120 code=987654 time=2019062010","price=110 code=012345 time=2019062009","price=95 code=012345 time=2019062111"]
 //print(solutionQ1("012345", "20190620", data))
