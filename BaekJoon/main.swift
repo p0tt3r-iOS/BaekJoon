@@ -7,8 +7,13 @@
 
 import Foundation
 
+// 210513
+print(solutionP42889(5, [2, 1, 2, 6, 2, 4, 3, 3]))
+print(solutionP42889(4, [4, 4, 4, 4, 4]))
+
+
 // 210512
-print(solutionP68935(45))
+//print(solutionP68935(45))
 
 // 210509
 //solutionP67256([7, 0, 8, 2, 8, 3, 1, 5, 7, 6, 2], "left")
