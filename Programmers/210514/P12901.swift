@@ -11,5 +11,5 @@ func solutionP12901(_ a: Int, _ b: Int) -> String {
     let month = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     let date = ["THU", "FRI", "SAT", "SUN", "MON", "TUE", "WED"]
     
-    return a == 1 ? date[b % 7] : date[(month[0..<a].reduce(0, +) + b) % 7]
+    return date[(month[0..<a - 1].reduce(0, +) + b) % 7]
 }
