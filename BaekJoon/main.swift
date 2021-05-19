@@ -7,7 +7,12 @@
 
 import Foundation
 
-print(solutionP12918(""))
+
+print(solutionP12926("AB", 1))
+print(solutionP12926("z", 1))
+
+
+//print(solutionP12918(""))
 
 // 210514
 //print(solutionP17681(5, [9, 20, 28, 18, 11], [30, 1, 21, 17, 28]))
