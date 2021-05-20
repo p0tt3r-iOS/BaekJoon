@@ -7,9 +7,15 @@
 
 import Foundation
 
+print(solutionP12931(987))
 
-print(solutionP12926("AB", 1))
-print(solutionP12926("z", 1))
+
+//print(solutionP12930("try hello world"))
+//print(solutionP12930("i lOve KOREA"))
+
+
+//print(solutionP12926("AB", 1))
+//print(solutionP12926("z", 1))
 
 
 //print(solutionP12918(""))
