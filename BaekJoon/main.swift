@@ -7,7 +7,9 @@
 
 import Foundation
 
-print(solutionP12931(987))
+print(solutionP12933(13))
+
+//print(solutionP12931(987))
 
 
 //print(solutionP12930("try hello world"))
