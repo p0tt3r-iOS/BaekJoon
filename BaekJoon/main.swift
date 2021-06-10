@@ -7,7 +7,9 @@
 
 import Foundation
 
-print(sqrt(4))
+print(solutionP12940(2, 5))
+
+//print(sqrt(4))
 
 //print(solutionP12933(13))
 
